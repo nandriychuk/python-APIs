@@ -100,5 +100,8 @@ venv.bak/
 # mkdocs documentation
 /site
 
+# api keys
+api_keys.py
+
 # mypy
 .mypy_cache/
